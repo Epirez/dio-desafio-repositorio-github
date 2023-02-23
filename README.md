@@ -1,13 +1,16 @@
 # Desafio de Projeto sobre Git/GitHub da DIO :rocket:
-Repositório para Desfio de Projeto.
+Primeiro repositório cirado para o Desfio de Projeto da [Dio](https://www.dio.me/). usando Git / GitHub.
 
 
 
-## Certificados
+## Meus Certificados :trophy:
 
-* [Introdução à Programação e Pensamento Computacional](/home/evandropires/Downloads/728F70BF.pdf)
+* [Seja Protagonista Neste Bootcamp](https://www.dio.me/certificate/EC922ECC/share)
+* [Introdução ao Desenvolvimento Moderno de Software](https://www.dio.me/certificate/61AEC533/share)
+* [Introdução à Programação e Pensamento Computacional](https://www.dio.me/certificate/728F70BF/share)
+  
 
 
 
 ## Links Úteis
-[Aprendendo com cursos grátis de qualidade na DIO](https://www.dio.me/)
+[Guias e Tutoriais Notion](https://www.notion.so/help/guides)
