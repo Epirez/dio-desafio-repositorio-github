@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da DIO :rocket:
-Primeiro repositório cirado para o Desfio de Projeto da [Dio](https://www.dio.me/). usando Git / GitHub.
+Primeiro repositório cirado para o Desfio de Projeto da [Dio](https://www.dio.me/) usando instruções do Git / GitHub.
 
 
 
