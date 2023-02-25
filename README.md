@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da DIO :rocket:
-Primeiro repositório criado para o Desfio de Projeto da [Dio](https://www.dio.me/) usando instruções do Git / GitHub, no conteúdo deste desafio contém anotações do Bootcamp Linux do Zero.
+Primeiro repositório criado para o Desfio de Projeto da [Dio](https://www.dio.me/) usando instruções do Git / GitHub, no conteúdo deste desafio contém anotações Bootcamp Linux do Zero e os certificados de conclusão.
 
 
 ## Anotações Bootcamp: Linux do Zero :penguin:
